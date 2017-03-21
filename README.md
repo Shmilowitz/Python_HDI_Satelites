@@ -40,8 +40,8 @@ The country with the lowest HDI is Niger with 0.348
 ## 2.Which country has raised its HDI the most, in the period 1990 to 2014?
 ![picture alt](http://i.imgur.com/VZTaiFS.png)  
 
- ## 3.Which country has the most satelites for military usage?
- 
+ ## 3.Which country has the most satelites for military usage?  
+ This data includes all of the countries with military satelites
  ![picture alt](http://i.imgur.com/3XeggBr.png)  
    
 Author
