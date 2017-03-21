@@ -1,6 +1,6 @@
 # Python_HDI_Satelites
 
-=============
+
 Purpose
 -------
 
