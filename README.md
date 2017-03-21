@@ -37,8 +37,8 @@ The answer is stored in a .txt file. Results are :
 The country with the highest HDI is Norway with 0.944  
 The country with the lowest HDI is Niger with 0.348
 ![picture alt](http://i.imgur.com/Li7vUan.jpg)
-
-  
+## 2.Which country has raised its HDI the most, in the period 1990 to 2014?
+![picture alt](http://i.imgur.com/VZTaiFS.png)
 Author
 -------
 
