@@ -49,7 +49,7 @@ Country of Operator/Owner    Algeria
 Launch Mass (Kilograms)            0  
 dtype: object  
 
-Pico satellite	0.1 to 1
+Pico satellite	0.1 to 1  
 Femto satellite	<0.1
 
 Author
