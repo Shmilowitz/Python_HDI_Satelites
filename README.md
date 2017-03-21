@@ -47,7 +47,10 @@ The country with the lowest HDI is Niger with 0.348
  The answer is stored in a .txt file. Results look like this:  
 Country of Operator/Owner    Algeria  
 Launch Mass (Kilograms)            0  
-dtype: object
+dtype: object  
+
+Pico satellite	0.1 to 1
+Femto satellite	<0.1
 
 Author
 -------
