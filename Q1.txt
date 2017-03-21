@@ -1,0 +1,2 @@
+The country with the highest HDI is Norway with 0.944
+The country with the lowest HDI is Niger with 0.348
