@@ -31,6 +31,11 @@ Questions asked
  * Q4:Wich country has the lightest satelite and how much does it weight?
  * Q5:Compare the usage of satelites, between the 5 poorest countries and the 5 welthiest countries, according to the HDI dataset (see first dataset), plotting optional.
 
+## 1.Which country has the highest HDI (Human Development Index) and which has the lowest?
+The answer is stored in a .txt file. Results are :
+The country with the highest HDI is Norway with 0.944
+The country with the lowest HDI is Niger with 0.348
+![picture alt](http://i.imgur.com/Li7vUan.jpg)
 Author
 -------
 
