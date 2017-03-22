@@ -1,3 +1,1 @@
-Country of Operator/Owner    Algeria
-Launch Mass (Kilograms)            0
-dtype: object
+China 0
