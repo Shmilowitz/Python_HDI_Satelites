@@ -9,7 +9,7 @@ Investigate satelite data and HDI for different countries
 Getting Started
 -------
 
-
+Download all the .py files and .csv files to a folder.
 Run all the different QuestionX.py files to generate answer for the different questions given at https://github.com/stinaanita/python_data. 
 Each QuestionX.py generates a plot which is saved in the root directory of the project. Some QuestionX.py also prints answers in the console  
 
