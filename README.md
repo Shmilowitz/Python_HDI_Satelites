@@ -53,5 +53,4 @@ Femto satellite	<0.1
 Author
 -------
 
-David Shmilowitz  
-Joseph Kwesi Krog Awwal
+David Shmilowitz
