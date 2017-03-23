@@ -54,3 +54,4 @@ Author
 -------
 
 David Shmilowitz
+Joseph Kwesi Krog Awwal
